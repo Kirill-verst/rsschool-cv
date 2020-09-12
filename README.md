@@ -1,1 +1,1 @@
-[ Portfolio](https://github.com/Kirill-verst/rsschool-cv/blob/gh-pages/cv.md)
+[`Portfolio`](https://github.com/Kirill-verst/rsschool-cv/blob/gh-pages/cv.md)
