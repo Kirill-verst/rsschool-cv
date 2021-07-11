@@ -1,21 +1,22 @@
-   # _Mayevsky Kirill_
-1. ### _Contacts_
- -  _Email-  feveerverstka@gmail.com_
- -  _Instagram-_  _kirill_frontend_developer_
+   # *Mayevsky Kirill*
+1. ### *Contacts*
+>
+> -  *Email-  feveerverstka@gmail.com*
+> -  *Instagram-_  _kirill_frontend_developer*
 
-2. ### _About Me_
+2. ### *About Me*
 
 
-3. ### _Skills_
- - _HTML 5_
- - _CSS 3_
- - _Perfect Pixel_
- - _SASS_
- - _VSCode_
- - _Figma_
- - _Git_
- - _Koala_
- - _Netlify_
- - _Abode Photoshop_
- - _BAM_
- - _Cross-browser_
+3. ### *Skills*
+ - *HTML 5*
+ - *CSS 3*
+ - *Perfect Pixel*
+ - *SASS*
+ - *VSCode*
+ - *Figma*
+ - *Git*
+ - *Koala*
+ - *Netlify*
+ - *Abode Photoshop*
+ - *BAM*
+ - *Cross-browser*
