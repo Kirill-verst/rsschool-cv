@@ -3,9 +3,9 @@
 1. ###  *`Contacts`*
 >
 
-> - ####  *`Email -`  feveerverstka@gmail.com*
+>> - ####  *`Email -`  feveerverstka@gmail.com*
 >
-> - ####  *`Instagram -`*  *`kirill_frontend_developer`*
+>> - ####  *`Instagram -`*  *`kirill_frontend_developer`*
 
 2. ###  *`About Me`*
 
