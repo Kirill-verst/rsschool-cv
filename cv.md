@@ -1,11 +1,11 @@
-   # *Mayevsky Kirill*
+  ` # *Mayevsky Kirill* `
 
 1. ### *Contacts*
 >
 
 > -  *Email-  feveerverstka@gmail.com*
 >
-> -  *Instagram-_  _kirill_frontend_developer*
+> -  *Instagram-*  *kirill_frontend_developer*
 
 2. ### *About Me*
 
