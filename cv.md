@@ -5,13 +5,13 @@
 
 > - ####  *`Email -`  feveerverstka@gmail.com*
 >
-> -  ***`Instagram -`***  ***`kirill_frontend_developer`***
+> - ####  *`Instagram -`*  *`kirill_frontend_developer`*
 
 2. ### *`About Me`*
 
 3. ### *`Skills`*
 >
-> - *`HTML 5`*
+> - ***`HTML 5`***
 > - *`CSS 3`*
 > - *`Perfect Pixel`*
 > - *`SASS`*
