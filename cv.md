@@ -18,4 +18,4 @@
  - _Netlify_
  - _Abode Photoshop_
  - _BAM_
- _ _Cross-browser_
+ - _Cross-browser_
