@@ -8,15 +8,16 @@
 
 
 3. ### *Skills*
- - *HTML 5*
- - *CSS 3*
- - *Perfect Pixel*
- - *SASS*
- - *VSCode*
- - *Figma*
- - *Git*
- - *Koala*
- - *Netlify*
- - *Abode Photoshop*
- - *BAM*
- - *Cross-browser*
+>
+> - *HTML 5*
+> - *CSS 3*
+> - *Perfect Pixel*
+> - *SASS*
+> - *VSCode*
+> - *Figma*
+> - *Git*
+> - *Koala*
+> - *Netlify*
+> - *Abode Photoshop*
+> - *BAM*
+> - *Cross-browser*
