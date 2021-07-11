@@ -10,7 +10,7 @@
 
 3. ###  *Skills:*
 
->  - ####  *HTML 5*
+>  - *HTML 5*
 >  - ####  *CSS 3*
 >  - ####  *Perfect Pixel*
 >  - ####  *SASS*
