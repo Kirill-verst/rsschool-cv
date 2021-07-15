@@ -27,7 +27,7 @@
 >  - *BAM*
 >  - *Cross-browser*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-verst&repo=github-rsschool-cv-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirill-verst&repo=github-kirill-verst-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🔨💖
