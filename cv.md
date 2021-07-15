@@ -1,4 +1,4 @@
-#  *Hi, I'm  Mayevsky Kirill*
+#  *Hi,  I'm  Mayevsky Kirill*
 
 1. ###  *Contacts:*
 
@@ -24,3 +24,7 @@
 >  - *Abode Photoshop*
 >  - *BAM*
 >  - *Cross-browser*
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+🔨
+💖
