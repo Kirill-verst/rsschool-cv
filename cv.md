@@ -10,6 +10,8 @@
 
 **I'm Kirill from Belarus, and i do content on Development. I really enjoy learning languages and frameworks.**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-verst)](https://github.com/anuraghazra/github-readme-stats)
+
 3. ###  *Skills:*
 
 >  - *HTML 5*
@@ -25,6 +27,4 @@
 >  - *BAM*
 >  - *Cross-browser*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirill-verst)](https://github.com/anuraghazra/github-readme-stats)
-🔨
-💖
+🔨💖
