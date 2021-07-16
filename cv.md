@@ -34,4 +34,6 @@
 > *IT Academy STEP - Front-end Developer*
 
 ### *English proficiency level:*
-> *Middle*
+> *Middle
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kirill-verst)  *
