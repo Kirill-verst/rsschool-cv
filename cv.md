@@ -32,3 +32,6 @@
 
 ### *Education:*
 > *IT Academy STEP - Front-end Developer*
+
+### *English proficiency level:*
+> *Middle*
