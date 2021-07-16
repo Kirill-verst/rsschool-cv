@@ -30,3 +30,5 @@
 >  - *BAM*
 >  - *Cross-browser*
 
+### *Education:*
+*IT Academy STEP - Front-end Developer*
