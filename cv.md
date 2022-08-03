@@ -1,7 +1,7 @@
 ### *Hi there 👋, my name is Kirll*
 ### *I am Front-end Developer*
 
-![I am Front-end Developer] ![ScREEn](./CVimg.png)
+![***I am Front-end Developer***] ![](./CVimg.png)
 
 ###  *Contacts/Social:*
 
