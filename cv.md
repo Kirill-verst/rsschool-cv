@@ -7,7 +7,7 @@
 
 📫 *How to reach me:*  feveerverstka@gmail.com 
 
-> - *GitHub*    [ *GitHub* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kirill-verst/rsschool-cv/blob/gh-pages/cv.md)
+> -[*GitHub* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kirill-verst/rsschool-cv/blob/gh-pages/cv.md)
 > - *linkedin*  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/feed/)
 > - *FaceBook*  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)
 > - *Instagram* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)
