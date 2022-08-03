@@ -7,6 +7,9 @@
 
 📫 *How to reach me:*  feveerverstka@gmail.com 
 
+<a href="https://www.flaticon.com/ru/free-icons/gmail" title="gmail иконки">Gmail иконки от Freepik - Flaticon</a>
+
+
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kirill-verst/rsschool-cv/blob/gh-pages/cv.md)
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/feed/)
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/)
