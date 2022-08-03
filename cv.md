@@ -1,7 +1,7 @@
 ### *Hi there 👋, my name is Kirll*
 ### *I am Front-end Developer*
 
-![I am Front-end Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) ![](../GitHub/screen)
+![I am Front-end Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) ![](https://GitHub/screen)
 
 ###  *Contacts/Social:*
 
