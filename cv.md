@@ -5,10 +5,8 @@
 
 ###  *Contacts/Social:*
 
-📫 *How to reach me:*  feveerverstka@gmail.com 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/2/#inbox)
-
+📫 *How to reach me:*  
+ - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](frontenddev11@gmail.com) 
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kirill-verst/rsschool-cv/blob/gh-pages/cv.md)
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/feed/)
  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/)
